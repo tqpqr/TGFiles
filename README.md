@@ -1,2 +1,2 @@
 # TGFiles
-Working with TG files using telethon
+Working with TG files using Telethon
